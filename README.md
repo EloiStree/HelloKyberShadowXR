@@ -17,3 +17,4 @@ It is possible by
 - Sunshine  https://github.com/LizardByte/Sunshine
 
 
+Note, it technicaly work with Virtual Desktop and Steam XR. (but you need a very good connection and there is conflict within shadow and virtual desktop)
