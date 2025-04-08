@@ -18,3 +18,7 @@ It is possible by
 
 
 Note, it technicaly work with Virtual Desktop and Steam XR. (but you need a very good connection and there is conflict within shadow and virtual desktop)
+
+
+
+![image](https://github.com/user-attachments/assets/4f32f883-6e10-43f5-ac5e-197c52208197)
