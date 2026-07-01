@@ -1,6 +1,7 @@
 # HelloKyberShadowXR
 So... a fuse in my computer burned, and I can't repair it. Let's see if I can work in XR with Shadow one way or another.
 
+https://media.frnog.org/FRnOG_39/FRnOG_39-6.pdf
 
 It is possible by
 - [ ] Virtual Desktop https://www.vrdesktop.net/
